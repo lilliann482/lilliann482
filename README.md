@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alicia
+- 👀 I’m interested in all kinds of web tech, but my passion is HTML & CSS
+- 🌱 I’m currently learning JS
